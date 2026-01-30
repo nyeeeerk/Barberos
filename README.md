@@ -187,3 +187,6 @@ This project is for **educational purposes**. You are free to modify and improve
 
 **Charles Ryan D. Robianes**
 GitHub: [https://github.com/nyeeeerk](https://github.com/nyeeeerk)
+
+### Presentation Link
+Canva: (https://www.canva.com/design/DAFx1GfqNE4/DEyf70Gk6P_nc9Ctw5lhOA/edit?utm_content=DAFx1GfqNE4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
