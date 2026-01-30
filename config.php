@@ -1,9 +1,9 @@
 <?php
 
 define('DB_SERVER', 'localhost');
-define('DB_USERNAME', 'hrdnwghm_barberos');
-define('DB_PASSWORD', 'pawpaw123');
-define('DB_NAME', 'hrdnwghm_barberos');
+define('DB_USERNAME', 'user');
+define('DB_PASSWORD', 'passowrd');
+define('DB_NAME', 'dbname');
  
 
 $link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
